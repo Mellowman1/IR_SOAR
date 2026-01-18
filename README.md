@@ -1,3 +1,3 @@
 # IR_SOAR
 
-<img src="https://github.com/Mellowman1/IR_SOAR/blob/main/SIEM_project_diagram_iteration_1.png?raw=true" width="600">
+<img src="img/img/SIEM_project_diagram_iteration_1.png" width="600">
