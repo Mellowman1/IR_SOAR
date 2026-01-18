@@ -7,5 +7,4 @@
 
 
 # Diagram
-Diagram of the topology
 <img src="img/SIEM_project_diagram_iteration_1.png" width="600">
